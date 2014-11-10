@@ -1,0 +1,5 @@
+<% provide(:title,"Privecy") %>
+<h1>Privecy Pages</h1>
+<p>
+  Data Use Policy
+</p>
